@@ -18,6 +18,7 @@ public class Git2 {
         // TODO code application logic here
         
         int x = 5;
+        int y = 9;
     }
     
 }
