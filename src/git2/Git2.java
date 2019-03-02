@@ -20,6 +20,7 @@ public class Git2 {
         int x = 5;
         int y = 9;
         int z = 5;
+        z = x+y+z;
     }
     
     
